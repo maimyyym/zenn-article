@@ -3,7 +3,7 @@ title: "外部ドメインサービス＋Route53＋ACMと学ぶDNSサーバー�
 emoji: "🏷️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "Route53", "acm", "DNS"]
-published: false
+published: true
 publication_name: "fusic"
 ---
 ## はじめに
