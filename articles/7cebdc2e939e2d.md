@@ -101,7 +101,7 @@ aws_lambda_powertools == 2.26.0
 ### 基本方針
 
 **pyproject.tomlをsingle source of truth（唯一の信頼の源）にする。** という案です。
-pyproject.tomlを起点にして全てをコントロールできるようにしたい、とClaude Codeと壁打ちしながら以下の構成を練りました。
+pyproject.tomlを起点にして全てをコントロールできるようにしたい、と考えて以下の構成を練りました。
 
 ```
 pyproject.toml          ← 開発者が編集する唯一のファイル
